@@ -1,0 +1,11 @@
+.main-div {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.main-div {
+    padding: 30px;
+    background: #f7f7f7;
+    box-shadow: 2px 5px 10px rgba(34, 34, 34, 0.34);
+    text-align: center;
+}
